@@ -1,0 +1,13 @@
+# Dependencias de Node.js
+/backend/node_modules
+/frontend/node_modules
+
+# Archivos de entorno
+/backend/.env
+/frontend/.env
+
+# Logs y otros archivos innecesarios
+*.log
+dist/
+node_modules/
+*.log
